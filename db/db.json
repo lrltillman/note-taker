@@ -1,1 +1,17 @@
-[{"title":"Lalalalala","text":"Testing 123","id":0.4414766588811938}]
+[
+    {
+        "title": "Nigel is the best dog!",
+        "text": "He has a cute nose and the sweetest white paws and big brown eyes. Best dog ever.",
+        "id": 0.9674925260198293
+    },
+    {
+        "title": "Best TV Shows",
+        "text": "The Fall of the House of Usher\nThe Haunting Of Hill House\nThe Good Place\nParks and Recreation\nSense8\n",
+        "id": 0.6382987612851443
+    },
+    {
+        "title": "Yay!",
+        "text": "These three notes are just placeholders to show that things are properly populating with my GET request. Hooray!",
+        "id": 0.10891244803530675
+    }
+]
